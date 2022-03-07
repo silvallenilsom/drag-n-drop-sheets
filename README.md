@@ -16,6 +16,13 @@ Como sugestão de entradas:
 
 3, Dilma R, 983898982
 
+### O que será avaliado: 
+- Senso estético 
+- Capacidade de utilizar heurísticas de Design 
+- Feature funcionando 
+- Código escrito usando React 
+
+
 #### links externos
 [Afinal, o que é um arquivo CSV?](https://rockcontent.com/br/blog/csv/#:~:text=Por%20defini%C3%A7%C3%A3o%2C%20CSV%20%C3%A9%20um,ou%20delimitados%20por%20uma%20v%C3%ADrgula)
 
