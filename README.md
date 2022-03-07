@@ -27,7 +27,7 @@ Como sugestão de entradas:
 
 ### Desenvolvimento
 - Feature desenvolvida em React
-- Pacote utilizado na solução do upload de arquivos: [React drag en drop files](https://www.npmjs.com/package/react-drag-drop-files)
+- Pacote utilizado na solução do upload de arquivos: [React drag and drop files](https://www.npmjs.com/package/react-drag-drop-files)
 
 
 
