@@ -9,8 +9,11 @@ O PM trouxe a informação que apenas 10% dos usuários carregam dados que possu
 3. Desejamos que o usuário possa selecionar linhas dessa tabela, excluir e adicionar de forma fácil.
 
 Como sugestão de entradas:
+
 1, John Doe, (51)9827493 
+
 2, Luis Inácio, 9388409 
+
 3, Dilma R, 983898982
 
 #### links externos
