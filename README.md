@@ -9,6 +9,6 @@ O PM trouxe a informação que apenas 10% dos usuários carregam dados que possu
 3. Desejamos que o usuário possa selecionar linhas dessa tabela, excluir e adicionar de forma fácil. 
 
 #### links externos
-![Afinal, o que é um arquivo CSV?]((https://rockcontent.com/br/blog/csv/#:~:text=Por%20defini%C3%A7% C3%A3o%2C%20CSV%20%C3%A9%20um,ou%20delimitados%20po r%20uma%20v%C3%ADrgula.))
+![Afinal, o que é um arquivo CSV?](https://rockcontent.com/br/blog/csv/#:~:text=Por%20defini%C3%A7% C3%A3o%2C%20CSV%20%C3%A9%20um,ou%20delimitados%20po r%20uma%20v%C3%ADrgula.)
 
 
