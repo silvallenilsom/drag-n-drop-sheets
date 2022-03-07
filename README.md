@@ -6,7 +6,12 @@ O PM trouxe a informação que apenas 10% dos usuários carregam dados que possu
 ### Requisitos
 1. Carregar um arquivo csv via drag and drop 
 2. Após carregar o arquivo esperamos que os dados apareçam na tela no formato de tabela - como se fosse o excel 
-3. Desejamos que o usuário possa selecionar linhas dessa tabela, excluir e adicionar de forma fácil. 
+3. Desejamos que o usuário possa selecionar linhas dessa tabela, excluir e adicionar de forma fácil.
+
+Como sugestão de entradas:
+1, John Doe, (51)9827493 
+2, Luis Inácio, 9388409 
+3, Dilma R, 983898982
 
 #### links externos
 [Afinal, o que é um arquivo CSV?](https://rockcontent.com/br/blog/csv/#:~:text=Por%20defini%C3%A7%C3%A3o%2C%20CSV%20%C3%A9%20um,ou%20delimitados%20por%20uma%20v%C3%ADrgula)
