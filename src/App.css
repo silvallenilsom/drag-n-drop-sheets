@@ -19,12 +19,19 @@ body {
   background-color: #268129;
   border: none;
   color: white;
+  display: inline-block;
+  font-size: 16px;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+  transition-duration: 0.4s;
 }
+
+.menu-button:hover{
+  background-color: #4CAF50;
+  color: white;
+}
+
 .options-menu {
   align-items: center;
   display: flex;
