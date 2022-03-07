@@ -16,14 +16,19 @@ Como sugestão de entradas:
 
 3, Dilma R, 983898982
 
+#### links externos
+[Afinal, o que é um arquivo CSV?](https://rockcontent.com/br/blog/csv/#:~:text=Por%20defini%C3%A7%C3%A3o%2C%20CSV%20%C3%A9%20um,ou%20delimitados%20por%20uma%20v%C3%ADrgula)
+
 ### O que será avaliado: 
 - Senso estético 
 - Capacidade de utilizar heurísticas de Design 
 - Feature funcionando 
 - Código escrito usando React 
 
+### Desenvolvimento
+- Feature desenvolvida em React
+- Pacote utilizado na solução do upload de arquivos: [React drag en drop files](https://www.npmjs.com/package/react-drag-drop-files)
 
-#### links externos
-[Afinal, o que é um arquivo CSV?](https://rockcontent.com/br/blog/csv/#:~:text=Por%20defini%C3%A7%C3%A3o%2C%20CSV%20%C3%A9%20um,ou%20delimitados%20por%20uma%20v%C3%ADrgula)
+
 
 
